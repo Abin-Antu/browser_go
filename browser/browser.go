@@ -1,4 +1,8 @@
+// Package browser provides utilities to open URLs in the default web browser
+// across multiple platforms, including Windows, macOS, Linux, and WSL.
 package browser
+
+
 
 import (
     "os/exec"
